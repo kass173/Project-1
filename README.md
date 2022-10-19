@@ -54,6 +54,15 @@ We found our data on “https://www.gov.uk/government/statistical-data-sets/fami
 
 ![image](https://user-images.githubusercontent.com/111521804/196801713-2bf8b33f-29ad-4eeb-9604-c027947f30cc.png)
 
+![image](https://user-images.githubusercontent.com/111521804/196801810-39fbe01c-18f7-48e5-81c1-ae40ecf90dd5.png)
+
+![image](https://user-images.githubusercontent.com/111521804/196801843-4d4b02fc-11d4-4e24-8054-052b8fbc3894.png)
+
+![image](https://user-images.githubusercontent.com/111521804/196801868-4b38e7a5-88ff-416d-bbbe-9e4a939029c3.png)
+
+
+
+
 
 ## Conclusions
 
