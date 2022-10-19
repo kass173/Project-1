@@ -65,9 +65,15 @@ We found our data on “https://www.gov.uk/government/statistical-data-sets/fami
 decline in consumption across 4/5 categories starting in 2007 and continuing till 2010.
 2015 for 50-64
 
+<img width="1248" alt="image" src="https://user-images.githubusercontent.com/111521804/196820821-7ab5f520-be86-4648-9633-d96fc3d21a84.png">
+
+
 ![image](https://user-images.githubusercontent.com/111521804/196801868-4b38e7a5-88ff-416d-bbbe-9e4a939029c3.png)
 
 Focusing on our most popular category….Ranking of the age groups.
+
+<img width="1240" alt="image" src="https://user-images.githubusercontent.com/111521804/196820847-3033add8-d36a-4564-8abd-eab1769df733.png">
+
 
 ## Let’s Talk Tomatoes
 
