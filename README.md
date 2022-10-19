@@ -60,7 +60,7 @@ We found our data on “https://www.gov.uk/government/statistical-data-sets/fami
 
 ![image](https://user-images.githubusercontent.com/111521804/196801868-4b38e7a5-88ff-416d-bbbe-9e4a939029c3.png)
 
-##Let’s Talk Tomatoes
+## Let’s Talk Tomatoes
 
 Here we are looking at a popular UK ‘vegetable’, we can see the trends appearing between age groups from 2001 and 2019
 
@@ -68,7 +68,7 @@ Here we are looking at a popular UK ‘vegetable’, we can see the trends appea
 
 ![image](https://user-images.githubusercontent.com/111521804/196802104-6e306ed8-0abc-4a59-b498-10aaea0abc6a.png)
 
-##Let’s Talk about Bread
+## Let’s Talk about Bread
 
 Notice the downward trend for the consumption of White bread from 2001 until 2019 for all age groups.
 Brown Bread has a less dramatic increase, but is nonetheless decreasing, indicating an overall bread consumption decrease. 
@@ -85,6 +85,24 @@ This represents all bread products consumed within the UK, under the two categor
 Age Groups 65-74 and 75 and Over have eaten nearly 47% of all the bread consumed within the UK from 2001 and 2019. 
 That’s a lot of bread!
 
+## The Coffee Problem
+
+![image](https://user-images.githubusercontent.com/111521804/196802805-4f66f7d2-7430-4b51-bfa0-eec6e2b8280b.png)
+
+That’s a near perfect correlation!
+As years go on the UK coffee needs are increasing at a steady rate. 
+Does the UK have a coffee problem?
+
+(The answer is yes)
+
+## How about Meat?
+
+This graph represents the total amount consumed per age group, as you can see we see a slight upwards trend with age, until you reach 75 and over, in which we notice a decline.
+
+
+![image](https://user-images.githubusercontent.com/111521804/196802881-9e98d25c-cf15-4984-a124-9fcd8c0fe7c5.png)
+
+![image](https://user-images.githubusercontent.com/111521804/196803022-8d8e72d6-65a7-426c-b957-8eb8ed463b91.png)
 
 
 ## Conclusions
