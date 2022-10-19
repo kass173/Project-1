@@ -60,7 +60,30 @@ We found our data on “https://www.gov.uk/government/statistical-data-sets/fami
 
 ![image](https://user-images.githubusercontent.com/111521804/196801868-4b38e7a5-88ff-416d-bbbe-9e4a939029c3.png)
 
+##Let’s Talk Tomatoes
 
+Here we are looking at a popular UK ‘vegetable’, we can see the trends appearing between age groups from 2001 and 2019
+
+![image](https://user-images.githubusercontent.com/111521804/196802085-50f924bf-52b2-463c-9346-53a02cac23b2.png)
+
+![image](https://user-images.githubusercontent.com/111521804/196802104-6e306ed8-0abc-4a59-b498-10aaea0abc6a.png)
+
+##Let’s Talk about Bread
+
+Notice the downward trend for the consumption of White bread from 2001 until 2019 for all age groups.
+Brown Bread has a less dramatic increase, but is nonetheless decreasing, indicating an overall bread consumption decrease. 
+
+![image](https://user-images.githubusercontent.com/111521804/196802407-30d94833-9f0c-41e8-b337-8f7c49a9eb7d.png)
+
+![image](https://user-images.githubusercontent.com/111521804/196802428-b0044ef3-bc9e-415d-96a7-8271e1a8a214.png)
+
+##Where’s all the Bread going?
+This represents all bread products consumed within the UK, under the two categories White Bread and Brown Bread, according to DEFRA, all bread types can be sorted into these two categories. 
+
+![image](https://user-images.githubusercontent.com/111521804/196802556-129cacce-9d94-4ac4-b0bb-ad12ea94a17a.png)
+
+Age Groups 65-74 and 75 and Over have eaten nearly 47% of all the bread consumed within the UK from 2001 and 2019. 
+That’s a lot of bread!
 
 
 
