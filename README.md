@@ -1,6 +1,6 @@
 # Project 1: Food Trends
 
-## Team: Abraham, Helen, Kassem & Rahmi
+## Team: Helen, Kassem & Rahmi
 
 ## Technologies implemented:
 * Python
