@@ -1,4 +1,4 @@
-# Projject 1: Food Trends?
+# Project 1: Food Trends?
 
 ## Team: Abraham, Helen, Kassem & Rahmi
 
