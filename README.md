@@ -52,6 +52,7 @@ We found our data on “https://www.gov.uk/government/statistical-data-sets/fami
 
 ## Data Cleaning Tasks
 
+![image](https://user-images.githubusercontent.com/111521804/196801713-2bf8b33f-29ad-4eeb-9604-c027947f30cc.png)
 
 
 ## Conclusions
