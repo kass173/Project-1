@@ -39,7 +39,7 @@ Data Exploration & Cleaning the Data: After going through all the choices betwee
 
 Initial data exploration was done to better understand and visually identify anomalies within the data as well as focus our research to which area's we wished to explore. When this process concluded we decided on our data set's but instead of picking one data set we have pooled various data sets together to which we created our data frame rather than take an already construct and available one.
 
-And Finally ….The we split the questions amongst the group and produced the relevant code, visuals and conclusions
+And Finally ….Then we split the questions amongst the group and produced the relevant code, visuals and conclusions
 
 ## Files in this folder
 
