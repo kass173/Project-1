@@ -47,9 +47,6 @@ And Finally ….Then we split the questions amongst the group and produced the r
 - Our Individual ipynb files with out data visual scripts, performs all the subsequent transformations, statistical analyses, and image production.
 - The final presdntation with visuals and our findings
 
-## Exploration and Data Cleaning
-We found our data on “https://www.gov.uk/government/statistical-data-sets/family-food-datasets“, a reputable government source for data on food and farming. The data set comprises 30 columns, detailing text and numerical information on over xxxx food catagories registered since 2000's. Information was given about the xxxxxx, and many statistics about xxxx and so on. Some of this data would be different for different kinds of xxxx, xxxxa.
-
 ## Food & Drink - Popularity by all age groups
 
 ![image](https://user-images.githubusercontent.com/111521804/196803290-081f3509-b995-483c-a35d-d58bfd8e3a9d.png)
